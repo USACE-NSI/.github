@@ -1,7 +1,7 @@
 **National Structure Inventory (NSI)**
 
 <p align="center">
-  <img src="media/Hexbins_Value.png"/>
+  <img src="Hexbins_Value.png"/>
   <br/>
     The value of the NSI points represented through Hexbins at the national scale
 </p>
